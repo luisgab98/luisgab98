@@ -1,6 +1,6 @@
 # ¡Hola! Soy Luis Enrique Granados Barrientos 👋
 
-Desarrollador de Software enfocado en la creación de soluciones y sistemas web robustos, eficientes y escalables. Me apasiona estructurar bases de datos relacionales sólidas y diseñar interfaces limpias que optimicen la operación de las organizaciones.
+Desarrollador Full-Stack enfocado en la creación de soluciones y sistemas web robustos, eficientes y altamente interactivos. Me apasiona estructurar bases de datos relacionales sólidas en el backend y diseñar interfaces modernas, limpias y dinámicas en el frontend que optimicen la operación de las organizaciones.
 
 ---
 
@@ -18,20 +18,23 @@ Sistema web de nivel empresarial diseñado para el control, auditoría e inventa
 ## 🛠️ Tecnologías y Herramientas (Tech Stack)
 
 - **Backend:** PHP, Laravel Framework (Eloquent ORM, Migraciones, MVC)
-- **Frontend:** JavaScript, Blade Templates, Tailwind CSS, Bootstrap
-- **Bases de Datos & Infraestructura:** MySQL (Diseño e integridad relacional)
+- **Frontend:** React, JavaScript (ES6+), Blade Templates
+- **UI & Estilos:** Tailwind CSS, Aceternity UI, Material Tailwind, Bootstrap
+- **Bases de Datos & Infraestructura:** MySQL (Diseño, optimización e integridad relacional)
 - **Herramientas & Entorno:** Git, GitHub, Linux
 
 ---
 
-## 💡 Áreas de Enfoque y Aprendizaje Continuo
+## 💡 Áreas de Enfoque y Desarrollo
 
-- Arquitectura de aplicaciones web funcionales con metodologías de desarrollo ágiles.
-- Optimización de consultas y modelado de bases de datos relacionales complejas.
-- Integración de herramientas de automatización y exportación de datos para la toma de decisiones empresariales.
+- **Desarrollo Full-Stack:** Construcción de aplicaciones web interactivas SPA/MVA integrando poderosos backends con interfaces reactivas modernas.
+- **Experiencia de Usuario (UX/UI):** Implementación de componentes visuales avanzados y animaciones fluidas utilizando ecosistemas modernos basados en Tailwind.
+- **Arquitectura de Datos:** Optimización de consultas y modelado de bases de datos relacionales complejas para entornos corporativos organizacionales.
 
 ---
 
 ## 📫 Conéctate conmigo
 
 - **GitHub:** [@luisgab98](https://github.com/luisgab98)
+- **WhatsApp** 5539909920
+

@@ -35,12 +35,12 @@ Sistema web de nivel empresarial diseñado para el control, auditoría e inventa
 <table>
   <tr>
     <td width="50%">
-      <p align="center"><b>📦 Control de Inventario y Activos</b></p>
-      <img src="https://raw.githubusercontent.com/luisgab98/it-asset-management-system/main/public/images/dashboard-assets.png" alt="Dashboard Activos" width="100%">
+      <p align="center"><b>📦 Control de Inventario y Asignaciones</b></p>
+      <img src="https://raw.githubusercontent.com/luisgab98/it-asset-management-system/main/Dashboard-Asignaciones.png" alt="Dashboard Activos" width="100%">
     </td>
     <td width="50%">
-      <p align="center"><b>📋 Asignación y Control de Equipos</b></p>
-      <img src="https://raw.githubusercontent.com/luisgab98/it-asset-management-system/main/public/images/responsivas.png" alt="Asignación Equipos" width="100%">
+      <p align="center"><b>📋 Formato de Asignación / Responsiva PDF</b></p>
+      <img src="https://raw.githubusercontent.com/luisgab98/it-asset-management-system/main/Generacion%20de%20PDF-Asignacion.png" alt="Asignación Equipos" width="100%">
     </td>
   </tr>
 </table>

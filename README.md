@@ -48,3 +48,26 @@ Sistema web de nivel empresarial diseñado para el control, auditoría e inventa
 👉 **[Ver Repositorio y Documentación del Sistema de Activos IT](https://github.com/luisgab98/it-asset-management-system)**
 
 ---
+
+### 🚗 3. GPS Installation & Vehicle Catalog System
+Sistema web orientado a la gestión técnica de flotas, incorporando un buscador interactivo de fichas automotrices, diagramas de cableado eléctrico y la administración paso a paso de guías de instalación multimedia.
+
+* **Stack:** PHP / Laravel, JavaScript, Tailwind CSS, MySQL.
+* **Características Clave:** Filtrado predictivo por marca/modelo/año, CRUD para secuencias y manuales operativos, y control de acceso seguro para personal técnico.
+
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center"><b>🔍 Catálogo Principal y Selección de Flota</b></p>
+      <img src="https://raw.githubusercontent.com/luisgab98/Reception-Visitor-Management-System/main/Dashboard%20.png" alt="Catálogo de Vehículos" width="100%">
+    </td>
+    <td width="50%">
+      <p align="center"><b>🛠️ Evidencias de Conexiones Técnicas</b></p>
+      <img src="https://raw.githubusercontent.com/luisgab98/Reception-Visitor-Management-System/main/Detalles.png" alt="Detalles Técnicos GPS" width="100%">
+    </td>
+  </tr>
+</table>
+
+👉 **[Ver Repositorio y Manual de Instalación GPS](https://github.com/luisgab98/Reception-Visitor-Management-System)**
+
+---
